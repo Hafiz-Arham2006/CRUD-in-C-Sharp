@@ -1,0 +1,10 @@
+E:\Work\C#\CRUD\crud\crud\bin\Debug\crud.exe.config
+E:\Work\C#\CRUD\crud\crud\bin\Debug\crud.exe
+E:\Work\C#\CRUD\crud\crud\bin\Debug\crud.pdb
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.Form1.resources
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.Properties.Resources.resources
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.exe
+E:\Work\C#\CRUD\crud\crud\obj\Debug\crud.pdb
